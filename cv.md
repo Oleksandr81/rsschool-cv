@@ -1,8 +1,6 @@
-﻿# Oleksandr Shenhera
-----
+# Oleksandr Shenhera
+
 ## Contact information
-
-
 
 * **E-mail**: oshengera@gmail.com
 * **Phone**: +380 (50) 385-48-12
@@ -10,7 +8,7 @@
 * **GitHub**: [Oleksandr81](https://github.com/Oleksandr81)
 * **Location**: Lviv, Ukraine
 
-----
+
 ## About me
 
 
@@ -19,7 +17,7 @@ My goal is to become a professional front-end developer. I like to programing an
 
 In previous jobs, I gained good soft skills, such as management, communication, teamwork, and motivation. My strengths are strong analytical abilities, logical thinking, solving complex problems, and I also easily learn everything new.
 
-----
+
 ## Skills
 
 * **JavaScript** (Fundamentals, DOM)
@@ -27,7 +25,8 @@ In previous jobs, I gained good soft skills, such as management, communication, 
 * **CSS/SASS/BEM**
 * **Git**
 * **Figma, Adobe Photoshop** (for web development)
-----
+
+
 ## Code example
 
 ```
@@ -45,7 +44,7 @@ let sum = 0;
   return sum;
 }
 ```
-----
+
 
 ## Education
 	
@@ -56,8 +55,9 @@ let sum = 0;
 * **HTML, CSS video course** [Freelancer for life](https://www.youtube.com/watch?v=BsQd9uOHjMM&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc)
 * **Courses soft skills**: Leadership & Management, Motivation - is the creativity of the manager, FaceReader - Everything is written on the face, Interview on values, Effective sales, Situational leadership
 
-----
-##Languages
+
+## Languages
+
 * **English** – A2 (under study)
 * **Ukrainian** – Native
 * **Russian** – Intermediate
